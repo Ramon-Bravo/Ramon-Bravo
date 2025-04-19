@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ramón Enríquez Bravo
 
-<!--
-**Ramon-Bravo/Ramon-Bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Apasionado por la Ciencia de Datos | 🧠 Modelado Predictivo | 🔍 Análisis Exploratorio
 
-Here are some ideas to get you started:
+Bienvenido/a a mi perfil. Actualmente estoy finalizando un bootcamp intensivo en Ciencia de Datos donde he desarrollado proyectos con datos reales, aplicando modelos de machine learning, análisis estadístico y herramientas modernas del ecosistema Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Formación en ciencia de datos y programación
+- 📈 Me interesa resolver problemas reales con datos
+- 🤝 Buscando oportunidades como **Data Analyst Jr.** o **Data Scientist Jr.**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+`Python` `pandas` `NumPy` `matplotlib` `seaborn`\
+`scikit-learn` `LightGBM` `SQL` `Jupyter Notebook` `Git`
+
+---
+
+## 📂 Portafolio de proyectos
+
+🎮 [Análisis de ventas de videojuegos](https://github.com/Ramon-Bravo/data_portafolio/tree/main/analisis_datos_videojuegos)\
+🚗 [Predicción de precios de autos](https://github.com/Ramon-Bravo/data_portafolio/tree/main/proyecciones_precios)\
+📞 [Análisis estadístico de planes móviles](https://github.com/Ramon-Bravo/data_portafolio/tree/main/analisis_estadistico)
+
+📁 Repositorio general del portafolio → [Ver aquí](https://github.com/Ramon-Bravo/data_portafolio)\
+📊 Datasets → [datasets\_publicos](https://github.com/Ramon-Bravo/datasets_publicos)
+
+---
+
+## 📬 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramon-enriquez/)
+- ✉️ [ramon@example.com](mailto\:ramon@example.com)
+
+---
+
+> *"Transformando datos en decisiones con impacto."*
