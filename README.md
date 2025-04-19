@@ -34,8 +34,8 @@ Bienvenido/a a mi perfil. Actualmente estoy finalizando un bootcamp intensivo en
 
 ## 📬 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramon-enriquez/)
-- ✉️ [ramon@example.com](mailto\:ramon@example.com)
+- 💼 [LinkedIn](www.linkedin.com/in/ramon-wh-bravo-19a352290)
+- ✉️ [ramon@example.com](mailto\:e.bravo.hp@outlook.com)
 
 ---
 
