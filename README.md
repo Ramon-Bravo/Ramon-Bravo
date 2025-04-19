@@ -1,18 +1,18 @@
-¡Hola! 👋 Soy Ramón Enríquez Bravo
+# ¡Hola! 👋 Soy Ramón Enríquez Bravo
 
 📊 Apasionado por la Ciencia de Datos | 🧠 Modelado Predictivo | 🔍 Análisis Exploratorio
 
 Bienvenido/a a mi perfil. Actualmente estoy finalizando un bootcamp intensivo en Ciencia de Datos donde he desarrollado proyectos con datos reales, aplicando modelos de machine learning, análisis estadístico y herramientas modernas del ecosistema Python.
 
-🚀 Sobre mí
+## 🚀 Sobre mí
 
-🎓 Formación en ciencia de datos y programación
+- 🎓 Formación en ciencia de datos y programación
 
-📈 Me interesa resolver problemas reales con datos
+- 📈 Me interesa resolver problemas reales con datos
 
-🤝 Buscando oportunidades como Data Analyst Jr. o Data Scientist Jr.
+- 🤝 Buscando oportunidades como Data Analyst Jr. o Data Scientist Jr.
 
-🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
@@ -25,13 +25,13 @@ Bienvenido/a a mi perfil. Actualmente estoy finalizando un bootcamp intensivo en
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
-📂 Portafolio de proyectos
+## 📂 Portafolio de proyectos
 
 🎮 Análisis de ventas de videojuegos🚗 Predicción de precios de autos📞 Análisis estadístico de planes móviles
 
 📁 Repositorio general del portafolio → Ver aquí📊 Datasets → datasets_publicos
 
-📬 Contacto
+## 📬 Contacto
 
 💼 [LinkedIn](https://www.linkedin.com/in/ramon-wh-bravo-19a352290/)
 
@@ -41,11 +41,7 @@ Bienvenido/a a mi perfil. Actualmente estoy finalizando un bootcamp intensivo en
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramon-Bravo&show_icons=true&theme=default&hide=stars)
-
-Translated version
+## Translated version
 
 # 👋 Hi there! I'm Ramón Enríquez Bravo
 
@@ -97,7 +93,7 @@ Welcome to my GitHub profile! I'm currently completing an intensive Data Science
 
 ## 📬 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramon-enriquez/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramon-wh-bravo-19a352290/)
 - ✉️ [e.bravo.hp@outlook.com](mailto:e.bravo.hp@outlook.com)
 
 ---
