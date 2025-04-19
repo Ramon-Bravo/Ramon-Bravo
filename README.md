@@ -27,9 +27,12 @@ Bienvenido/a a mi perfil. Actualmente estoy finalizando un bootcamp intensivo en
 
 ## 📂 Portafolio de proyectos
 
-🎮 Análisis de ventas de videojuegos🚗 Predicción de precios de autos📞 Análisis estadístico de planes móviles
+🎮 [Análisis de ventas de videojuegos](https://github.com/Ramon-Bravo/data_portafolio/tree/main/analisis_datos_videojuegos)  
+🚗 [Predicción de precios de autos](https://github.com/Ramon-Bravo/data_portafolio/tree/main/proyecciones_precios)  
+📞 [Análisis estadístico de planes móviles](https://github.com/Ramon-Bravo/data_portafolio/tree/main/analisis_estadistico)
 
-📁 Repositorio general del portafolio → Ver aquí📊 Datasets → datasets_publicos
+📁 Repositorio general del portafolio → [Ver aquí](https://github.com/Ramon-Bravo/data_portafolio)  
+📊 Datasets → [datasets_publicos](https://github.com/Ramon-Bravo/datasets_publicos)
 
 ## 📬 Contacto
 
